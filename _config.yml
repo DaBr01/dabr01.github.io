@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Daniel Braun"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "daniel_braun.jpg"
+  bio              : "Research Associate at the Technical University of Munich<br>[Chair of Software Engineering for Business Information Systems](https://wwwmatthes.in.tum.de/)"
   location         : "Munich, Germany"
-  employer         : "Technical University of Munich"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.de/citations?user=qjt66goAAAAJ&hl=de"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Daniel_Braun6"
   uri              :
   bitbucket        :
   codepen          :
