@@ -11,31 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Computer Science, Saarland University, 2014
+* M.Sc. in Computing Science, University of Aberdeen, 2016
+* Ph.D. candidate in Informatics, Technical University of Munich
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016 - today: Research Associate
+  * Technical University of Munich
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
+* 2010 - 2014: Student Research Assistant
+  * German Research Center for Artificial Intelligence (DFKI)
+ 
+ 
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -54,6 +43,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Services to the Scientific Community
 ======
-* Currently signed in to 43 different slack teams
+* Workshop Chair INLG 2020
+* Program Commitee Member NLP-OSS 2020
+* Program Commitee Member ICJAI 2020
+* Reviewer for Journals (Journal of Financial Services Marketing, Transactions on Information Systems, Medien im Diskurs)
